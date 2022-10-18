@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\sina\\uni\\local\\rollfuchs\\rollfuchs_project\\source\\rollfuchs_project\\rollfuchs_project.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\sina\\uni\\local\\rollfuchs\\rollfuchs_project\\intermediate\\build\\win64\\rollfuchs_projecteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\sina\\uni\\local\\rollfuchs\\rollfuchs_project\\intermediate\\build\\win64\\unrealeditor\\development\\rollfuchs_project\\definitions.rollfuchs_project.h",
+            "c:\\users\\sina\\uni\\local\\rollfuchs\\rollfuchs_project\\source\\rollfuchs_project\\rollfuchs_project.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

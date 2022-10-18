@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Rollfuchs_Project",
+			"Path": "C:\\Users\\Sina\\UNI\\Local\\Rollfuchs\\Rollfuchs_Project\\Source\\Rollfuchs_Project.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Rollfuchs_ProjectEditor",
+			"Path": "C:\\Users\\Sina\\UNI\\Local\\Rollfuchs\\Rollfuchs_Project\\Source\\Rollfuchs_ProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
